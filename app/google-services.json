@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110067267966",
+    "firebase_url": "https://messengerkursovaya.firebaseio.com",
+    "project_id": "messengerkursovaya",
+    "storage_bucket": "messengerkursovaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110067267966:android:cac3928f9603b7c5f99b2f",
+        "android_client_info": {
+          "package_name": "com.example.messengerkursovaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110067267966-hl9kerde3ghahooi6ip3glsh4iatlv10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messengerkursovaya",
+            "certificate_hash": "aaa68209cc5fb2df8040fb54795b9ef6811c9626"
+          }
+        },
+        {
+          "client_id": "110067267966-lom40l2sl8lgc7ffqh5rbov1hjj9okp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgPidWTsQv8b1PictuDZu0nVA18g7cSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110067267966-lom40l2sl8lgc7ffqh5rbov1hjj9okp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

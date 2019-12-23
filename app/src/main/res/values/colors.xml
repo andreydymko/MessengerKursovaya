@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E66E24</color>
+    <color name="colorPrimaryDark">#AFB9C3</color>
+    <color name="colorAccent">#505A6E</color>
+
+    <color name="colorBlackGray">#80000000</color>
+    <color name="colorTransparent">#00000000</color>
+
+    <color name="colorDialogNotReaden">#1F249CE6</color>
+    <color name="colorMessageBackgroundMe">#33E66E24</color>
+    <color name="colorMessageBackgroundOther">#33505A6E</color>
+</resources>

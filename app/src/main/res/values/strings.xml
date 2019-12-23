@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Messenger Kursovaya</string>
+
+    <string name="title_activity_main">Dialogs</string>
+    <string name="title_activity_create_chat">New chat</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="isSentImageDescription">Is message sent</string>
+    <string name="network_error">Network error occur.</string>
+
+    <string name="send_message">Send Message</string>
+    <string name="message">Message</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_confirmation">Password Confirmation</string>
+    <string name="another_user_email">Another User Email</string>
+    <string name="message_text">Message Text</string>
+    <string name="create_chat">Create New Chat</string>
+
+    <string name="hint_email">Email@example.com</string>
+    <string name="hint_password">Password</string>
+
+    <string name="no_such_user">No Such User</string>
+    <string name="error_empty_field">This field shouldn\'t be empty</string>
+    <string name="error_passwords_arent_same">Passwords should be the same</string>
+    <string name="error_email_not_valid">Not a valid email</string>
+    <string name="error_password_short">Password is too short</string>
+</resources>
